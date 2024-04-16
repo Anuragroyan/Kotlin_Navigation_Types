@@ -6,3 +6,4 @@
 ![Screenshot_20240416_233754](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/b7aac9ef-839f-4abe-8d9f-cc6f7994bca7)
 ![Screenshot_20240416_233800](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/c05a41c3-e07d-4b66-b847-963b7d7ce275)
 ![Screenshot_20240416_233809](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/cfce1468-e9f8-4384-8d9a-af67b6e4fe17)
+![Screenshot_20240416_233915](https://github.com/Anuragroyan/Kotlin_Navigation_Types/assets/38952781/770efdaa-b3ab-4bcf-b5eb-a6039adad27f)
